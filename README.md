@@ -23,7 +23,7 @@
 <h5>O vídeo abaixo mostram a aplicação sendo executada, onde através da plataforma insomnia, é simulado o front-end executando a manipulação dos pedidos no servidor.</h5>
 <br>
 
-<img  src="" width=950px dis>
+<img  src="https://github.com/PitterBonoto/Hamburgueria-node/blob/main/assets/hamburgueria-node-readme.gif?raw=true" width=950px dis>
 
 
 
